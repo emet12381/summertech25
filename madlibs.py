@@ -1,0 +1,6 @@
+name = input("enter a name")
+adjective = input ("enter an adjective")
+noun = input ("enter a noun")
+adverb =input ("enter an adverb")
+verb = input ("enter a verb")
+print ("a", adjective, noun, "was", adverb, verb, "to", noun)
