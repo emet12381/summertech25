@@ -1,0 +1,4 @@
+function ClickMe(){
+
+    alert("Hey!")    
+}
