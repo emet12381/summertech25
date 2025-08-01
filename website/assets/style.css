@@ -1,3 +1,7 @@
 body{
     background-color: rgb(41, 142, 189);
 }
+.cat{
+    width:300px;
+    height:auto;
+}
